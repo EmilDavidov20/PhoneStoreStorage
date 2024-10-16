@@ -1,0 +1,48 @@
+Galaxy Details, ID: 1027 Price: 3884.8 Inch: 4.6 Color: White Wireless: True SSD: 128 Resolution: 2560
+Galaxy Details, ID: 1027 Price: 3884.8 Inch: 4.6 Color: White Wireless: True SSD: 128 Resolution: 2560
+HeadPhones Details, ID: 2678 Price: 139.99 For: Android Color: White Microphone: True
+Iphone Details, ID: 1027 Price: 5888 Inch: 3.4 Color: White Wireless: False SSD: 1024 Resolution: 2560
+Iphone Details, ID: 1017 Price: 3222.4 Inch: 3.4 Color: White Wireless: False SSD: 64 Resolution: 2560
+HeadPhones Details, ID: 2678 Price: 139.99 For: Android Color: White Microphone: False
+Iphone Details, ID: 1017 Price: 3222.4 Inch: 3.4 Color: White Wireless: False SSD: 64 Resolution: 2560
+Iphone Details, ID: 1017 Price: 3222.4 Inch: 3.4 Color: White Wireless: False SSD: 64 Resolution: 2560
+Iphone Details, ID: 1017 Price: 3222.4 Inch: 3.4 Color: White Wireless: False SSD: 64 Resolution: 2560
+Iphone Details, ID: 1017 Price: 3222.4 Inch: 3.4 Color: White Wireless: False SSD: 64 Resolution: 2560
+Iphone Details, ID: 1017 Price: 3222.4 Inch: 3.4 Color: White Wireless: False SSD: 64 Resolution: 1920
+Charger Details, ID: 3210 Price: 163.5 Wattage: 30 Amperage: 1.4
+Charger Details, ID: 3210 Price: 163.5 Wattage: 30 Amperage: 2.8
+Charger Details, ID: 3210 Price: 163.5 Wattage: 30 Amperage: 3.4
+Charger Details, ID: 3120 Price: 106.4 Wattage: 20 Amperage: 2.8
+Galaxy Details, ID: 1027 Price: 5888 Inch: 3.4 Color: Grey Wireless: True SSD: 1024 Resolution: 640
+Iphone Details, ID: 1023 Price: 4979.2 Inch: 3.4 Color: Grey Wireless: True SSD: 256 Resolution: 1920
+Iphone Details, ID: 1027 Price: 3884.8 Inch: 4.6 Color: Grey Wireless: True SSD: 128 Resolution: 2560
+HeadPhones Details, ID: 2067 Price: 159.99 For: IOS Color: Grey Microphone: True
+Galaxy Details, ID: 1027 Price: 3884.8 Inch: 4.6 Color: White Wireless: False SSD: 128 Resolution: 2560
+Case Details, ID: 4069 Price: 127.55 Color: Black For: IOS
+Charger Details, ID: 3075 Price: 78.75 Wattage: 15 Amperage: 2.8
+Charger Details, ID: 3075 Price: 78.75 Wattage: 15 Amperage: 1.4
+Charger Details, ID: 3075 Price: 78.75 Wattage: 15 Amperage: 1.4
+Case Details, ID: 4891 Price: 115.25 Color: Grey For: Android
+Case Details, ID: 4891 Price: 115.25 Color: Grey For: Android
+Iphone Details, ID: 1017 Price: 3222.4 Inch: 3.4 Color: White Wireless: False SSD: 64 Resolution: 2560
+Charger Details, ID: 3120 Price: 106.4 Wattage: 20 Amperage: 3.4
+Charger Details, ID: 3120 Price: 106.4 Wattage: 20 Amperage: 2.8
+Charger Details, ID: 3120 Price: 106.4 Wattage: 20 Amperage: 1.4
+Charger Details, ID: 3120 Price: 106.4 Wattage: 20 Amperage: 3.4
+Iphone Details, ID: 1030 Price: 3884.8 Inch: 5.1 Color: Grey Wireless: True SSD: 128 Resolution: 2560
+HeadPhones Details, ID: 2678 Price: 139.99 For: Android Color: White Microphone: True
+Charger Details, ID: 3075 Price: 78.75 Wattage: 15 Amperage: 3.4
+Case Details, ID: 4891 Price: 115.25 Color: Grey For: Android
+Iphone Details, ID: 1020 Price: 3884.8 Inch: 3.4 Color: White Wireless: False SSD: 128 Resolution: 2560
+Charger Details, ID: 3120 Price: 106.4 Wattage: 20 Amperage: 2.8
+Galaxy Details, ID: 1017 Price: 5888 Inch: 2.2 Color: White Wireless: True SSD: 1024 Resolution: 1280
+Charger Details, ID: 3120 Price: 106.4 Wattage: 20 Amperage: 2.8
+HeadPhones Details, ID: 2678 Price: 139.99 For: Android Color: Black Microphone: False
+HeadPhones Details, ID: 2678 Price: 139.99 For: Android Color: White Microphone: True
+Iphone Details, ID: 1044 Price: 4979.2 Inch: 6.3 Color: White Wireless: True SSD: 256 Resolution: 1920
+Galaxy Details, ID: 1023 Price: 4979.2 Inch: 3.4 Color: Grey Wireless: False SSD: 256 Resolution: 2560
+Case Details, ID: 4069 Price: 127.55 Color: White For: IOS
+Charger Details, ID: 3120 Price: 106.4 Wattage: 20 Amperage: 2.8
+Galaxy Details, ID: 1035 Price: 4979.2 Inch: 5.1 Color: Grey Wireless: False SSD: 256 Resolution: 2560
+Charger Details, ID: 3120 Price: 106.4 Wattage: 20 Amperage: 2.8
+Case Details, ID: 4069 Price: 127.55 Color: White For: IOS

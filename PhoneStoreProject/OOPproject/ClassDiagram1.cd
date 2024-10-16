@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPproject.NewFolder.Item">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAIAABEAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>NewFolder\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPproject.NewFolder.ElectricItem">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>NewFolder\ElectricItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPproject.NewFolder.PhoneCase">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>NewFolder\PhoneCase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPproject.NewFolder.Phone">
+    <Position X="2" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAABAAAAAAAQAAACBAAAA=</HashCode>
+      <FileName>NewFolder\Phone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPproject.NewFolder.HeadPhones">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAQAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>NewFolder\HeadPhones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPproject.NewFolder.Charger">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAJA=</HashCode>
+      <FileName>NewFolder\Charger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

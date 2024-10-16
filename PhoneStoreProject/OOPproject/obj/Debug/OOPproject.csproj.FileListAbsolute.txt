@@ -1,0 +1,157 @@
+C:\Users\emild\source\repos\OOPproject\OOPproject\bin\Debug\OOPproject.exe.config
+C:\Users\emild\source\repos\OOPproject\OOPproject\bin\Debug\OOPproject.exe
+C:\Users\emild\source\repos\OOPproject\OOPproject\bin\Debug\OOPproject.pdb
+C:\Users\emild\source\repos\OOPproject\OOPproject\obj\Debug\OOPproject.FormCustomer.resources
+C:\Users\emild\source\repos\OOPproject\OOPproject\obj\Debug\OOPproject.Properties.Resources.resources
+C:\Users\emild\source\repos\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.GenerateResource.cache
+C:\Users\emild\source\repos\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.CoreCompileInputs.cache
+C:\Users\emild\source\repos\OOPproject\OOPproject\obj\Debug\OOPproject.exe
+C:\Users\emild\source\repos\OOPproject\OOPproject\obj\Debug\OOPproject.pdb
+C:\Users\emild\source\repos\OOPproject\OOPproject\obj\Debug\OOPproject.FormLogin.resources
+C:\Users\emild\source\repos\OOPproject\OOPproject\obj\Debug\OOPproject.FormManager.resources
+C:\Users\emild\source\repos\OOPproject\OOPproject\obj\Debug\OOPproject.Login.resources
+C:\Users\emild\source\repos\OOPproject\OOPproject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emild\source\repos\OOPproject\OOPproject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\emild\source\repos\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.CopyComplete
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\bin\Debug\OOPproject.exe
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\bin\Debug\OOPproject.exe.config
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.AssemblyReference.cache
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\obj\Debug\OOPproject.FormCustomer.resources
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\obj\Debug\OOPproject.FormLogin.resources
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\obj\Debug\OOPproject.FormManager.resources
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\obj\Debug\OOPproject.FormRegister.resources
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\obj\Debug\OOPproject.Login.resources
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\obj\Debug\OOPproject.Properties.Resources.resources
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.GenerateResource.cache
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.CoreCompileInputs.cache
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.CopyComplete
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\obj\Debug\OOPproject.exe
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\obj\Debug\OOPproject.pdb
+C:\Users\Katzir\Downloads\OOPproject (1)\OOPproject\OOPproject\bin\Debug\OOPproject.pdb
+C:\Users\emild\OneDrive\Desktop\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\bin\Debug\OOPproject.exe.config
+C:\Users\emild\OneDrive\Desktop\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\bin\Debug\OOPproject.exe
+C:\Users\emild\OneDrive\Desktop\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\bin\Debug\OOPproject.pdb
+C:\Users\emild\OneDrive\Desktop\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emild\OneDrive\Desktop\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\emild\OneDrive\Desktop\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.FormCustomer.resources
+C:\Users\emild\OneDrive\Desktop\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.FormLogin.resources
+C:\Users\emild\OneDrive\Desktop\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.FormManager.resources
+C:\Users\emild\OneDrive\Desktop\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.FormRegister.resources
+C:\Users\emild\OneDrive\Desktop\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.Login.resources
+C:\Users\emild\OneDrive\Desktop\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.Properties.Resources.resources
+C:\Users\emild\OneDrive\Desktop\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.GenerateResource.cache
+C:\Users\emild\OneDrive\Desktop\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.CoreCompileInputs.cache
+C:\Users\emild\OneDrive\Desktop\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.CopyComplete
+C:\Users\emild\OneDrive\Desktop\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.exe
+C:\Users\emild\OneDrive\Desktop\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.pdb
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\bin\Debug\OOPproject.exe.config
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\bin\Debug\OOPproject.exe
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\bin\Debug\OOPproject.pdb
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.AssemblyReference.cache
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.FormCustomer.resources
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.FormLogin.resources
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.FormManager.resources
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.FormRegister.resources
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.Login.resources
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.Properties.Resources.resources
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.GenerateResource.cache
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.CoreCompileInputs.cache
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.CopyComplete
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.exe
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.pdb
+C:\Users\Katzir\Downloads\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.BoredWorker.resources
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\bin\Debug\OOPproject.exe.config
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\bin\Debug\OOPproject.exe
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\bin\Debug\OOPproject.pdb
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.BoredWorker.resources
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.FormCustomer.resources
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.FormLogin.resources
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.FormManager.resources
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.FormRegister.resources
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.Login.resources
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.Properties.Resources.resources
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.GenerateResource.cache
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.CoreCompileInputs.cache
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.CopyComplete
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.exe
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.pdb
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.BlackIphone.resources
+C:\Users\emild\OneDrive\Desktop\OOProject25\OOProjectWithLogin (1)\OOProjectWithLogin\OOProjectWithLogin\OOPproject\OOPproject\obj\Debug\OOPproject.csproj.AssemblyReference.cache
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\bin\Debug\OOPproject.exe.config
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\bin\Debug\OOPproject.exe
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\bin\Debug\OOPproject.pdb
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\obj\Debug\OOPproject.BoredWorker.resources
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\obj\Debug\OOPproject.FormCustomer.resources
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\obj\Debug\OOPproject.FormLogin.resources
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\obj\Debug\OOPproject.FormManager.resources
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\obj\Debug\OOPproject.FormRegister.resources
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\obj\Debug\OOPproject.Login.resources
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\obj\Debug\OOPproject.BlackIphone.resources
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\obj\Debug\OOPproject.Properties.Resources.resources
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\obj\Debug\OOPproject.csproj.GenerateResource.cache
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\obj\Debug\OOPproject.csproj.CoreCompileInputs.cache
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\obj\Debug\OOPproject.csproj.CopyComplete
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\obj\Debug\OOPproject.exe
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\obj\Debug\OOPproject.pdb
+C:\Users\emild\OneDrive\Desktop\OOProject27\OOPproject\obj\Debug\OOPproject.csproj.AssemblyReference.cache
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.csproj.AssemblyReference.cache
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.BoredWorker.resources
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.FormCustomer.resources
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.FormLogin.resources
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.FormManager.resources
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.FormRegister.resources
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.Login.resources
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.BlackIphone.resources
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.Properties.Resources.resources
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.csproj.GenerateResource.cache
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.csproj.CoreCompileInputs.cache
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.exe
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.pdb
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\bin\Debug\OOPproject.exe.config
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\bin\Debug\OOPproject.exe
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\bin\Debug\OOPproject.pdb
+C:\Users\Katzir\Downloads\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.csproj.CopyComplete
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\bin\Debug\OOPproject.exe.config
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\bin\Debug\OOPproject.exe
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\bin\Debug\OOPproject.pdb
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.BoredWorker.resources
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.FormCustomer.resources
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.FormLogin.resources
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.FormManager.resources
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.FormRegister.resources
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.Login.resources
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.BlackIphone.resources
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.Properties.Resources.resources
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.csproj.GenerateResource.cache
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.csproj.CoreCompileInputs.cache
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.csproj.CopyComplete
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.exe
+C:\Users\emild\OneDrive\Desktop\OOProject27 new\OOProject27\OOProject27\OOPproject\obj\Debug\OOPproject.pdb
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\bin\Debug\OOPproject.exe.config
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\bin\Debug\OOPproject.exe
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\bin\Debug\OOPproject.pdb
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\obj\Debug\OOPproject.csproj.AssemblyReference.cache
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\obj\Debug\OOPproject.BoredWorker.resources
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\obj\Debug\OOPproject.FormCustomer.resources
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\obj\Debug\OOPproject.FormLogin.resources
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\obj\Debug\OOPproject.FormManager.resources
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\obj\Debug\OOPproject.FormRegister.resources
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\obj\Debug\OOPproject.Login.resources
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\obj\Debug\OOPproject.BlackIphone.resources
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\obj\Debug\OOPproject.Properties.Resources.resources
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\obj\Debug\OOPproject.csproj.GenerateResource.cache
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\obj\Debug\OOPproject.csproj.CoreCompileInputs.cache
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\obj\Debug\OOPproject.csproj.Up2Date
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\obj\Debug\OOPproject.exe
+C:\Users\emild\Desktop\לימודים\'שנה א\'סמסטר ב\תכנות מונחה עצמים\פרוייקט סוף\פרוייקט סוף -נבדק לשנת 2024\328852801_323855973\OOPproject\obj\Debug\OOPproject.pdb
