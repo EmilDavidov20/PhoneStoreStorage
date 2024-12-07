@@ -9,8 +9,8 @@ This project demonstrates the development of a phone store storage management sy
 ## Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/EmilDavidov26/PhoneStoreStorage.git
-   cd PhoneStoreStorage
+    git clone https://github.com/EmilDavidov26/PhoneStoreStorage.git
+    cd PhoneStoreStorage
 2. **Open the Project**:
    ```bash
    Open the solution file PhoneStoreStorage.sln in Visual Studio.
