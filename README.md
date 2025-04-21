@@ -9,7 +9,7 @@ This project demonstrates the development of a phone store storage management sy
 ## Usage
 1. **Clone the Repository**:
    ```bash
-    git clone https://github.com/EmilDavidov26/PhoneStoreStorage.git
+    git clone https://github.com/EmilDavidov20/PhoneStoreStorage.git
     cd PhoneStoreStorage
 2. **Open the Project**:
    ```bash
