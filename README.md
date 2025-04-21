@@ -15,5 +15,5 @@ This project demonstrates the development of a phone store storage management sy
    ```bash
    Open the solution file PhoneStoreStorage.sln in Visual Studio.
 3. **Build and Run**:
-  ```bash
+   ```bash
    Build the solution and run the application from Visual Studio.
